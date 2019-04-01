@@ -1,0 +1,866 @@
+[02-May-2017 20:13:20 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[02-May-2017 20:31:13 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[02-May-2017 20:31:27 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/restclient/index.php
+[02-May-2017 20:31:27 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/joychien/proj2/proj2_server/rest/day/
+[02-May-2017 20:31:28 Europe/Berlin] ...... restclient: GET day
+[02-May-2017 20:31:28 Europe/Berlin] ...... restclient: GET product
+[02-May-2017 20:31:28 Europe/Berlin] ...... restclient: POST product
+[03-May-2017 07:15:08 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[03-May-2017 07:15:10 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[03-May-2017 07:15:15 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[03-May-2017 07:15:18 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[03-May-2017 07:15:20 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[03-May-2017 07:15:22 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[03-May-2017 07:15:23 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[03-May-2017 07:15:25 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/topping/
+[03-May-2017 07:15:30 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/topping/?action=show_add_form
+[03-May-2017 07:15:30 Europe/Berlin] $_GET:action: show_add_form
+[03-May-2017 07:15:36 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/topping/index.php
+[03-May-2017 07:15:36 Europe/Berlin] $_POST:action: add_topping
+[03-May-2017 07:15:36 Europe/Berlin] $_POST:topping_name: Cheese
+[03-May-2017 07:15:36 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/topping/
+[03-May-2017 07:15:39 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[03-May-2017 07:15:40 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[03-May-2017 07:15:41 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/size/
+[03-May-2017 07:15:43 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/size/?action=show_add_form
+[03-May-2017 07:15:43 Europe/Berlin] $_GET:action: show_add_form
+[03-May-2017 07:15:50 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/size/index.php
+[03-May-2017 07:15:50 Europe/Berlin] $_POST:action: add_size
+[03-May-2017 07:15:50 Europe/Berlin] $_POST:size_name: Medium
+[03-May-2017 07:15:50 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/size/
+[03-May-2017 07:15:51 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/size/?action=show_add_form
+[03-May-2017 07:15:51 Europe/Berlin] $_GET:action: show_add_form
+[03-May-2017 07:15:55 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/size/index.php
+[03-May-2017 07:15:55 Europe/Berlin] $_POST:action: add_size
+[03-May-2017 07:15:55 Europe/Berlin] $_POST:size_name: Large
+[03-May-2017 07:15:55 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/size/
+[03-May-2017 07:15:58 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/size/
+[03-May-2017 07:15:58 Europe/Berlin] $_POST:action: delete_size
+[03-May-2017 07:15:58 Europe/Berlin] $_POST:size_id: 1
+[03-May-2017 07:15:58 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/size/
+[03-May-2017 07:15:58 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/size/?action=show_add_form
+[03-May-2017 07:15:58 Europe/Berlin] $_GET:action: show_add_form
+[03-May-2017 07:16:02 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/size/index.php
+[03-May-2017 07:16:02 Europe/Berlin] $_POST:action: add_size
+[03-May-2017 07:16:02 Europe/Berlin] $_POST:size_name: Small
+[03-May-2017 07:16:02 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/size/
+[03-May-2017 07:16:05 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[03-May-2017 07:16:06 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[03-May-2017 07:16:07 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[03-May-2017 07:16:08 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[03-May-2017 07:16:09 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[03-May-2017 07:16:10 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[03-May-2017 07:16:13 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[03-May-2017 07:16:14 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[03-May-2017 07:16:21 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[03-May-2017 07:16:21 Europe/Berlin] $_GET:action: order_pizza
+[03-May-2017 07:16:21 Europe/Berlin] $_GET:room: 1
+[03-May-2017 07:16:37 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=3&pizza_topping%5B%5D=2&pizza_topping%5B%5D=1&room=1&n=1
+[03-May-2017 07:16:37 Europe/Berlin] $_GET:action: add_order
+[03-May-2017 07:16:37 Europe/Berlin] $_GET:pizza_size: 3
+[03-May-2017 07:16:37 Europe/Berlin] $_GET:pizza_topping: 2,1
+[03-May-2017 07:16:37 Europe/Berlin] $_GET:room: 1
+[03-May-2017 07:16:37 Europe/Berlin] $_GET:n: 1
+[03-May-2017 07:16:37 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[03-May-2017 07:16:37 Europe/Berlin] $_GET:room: 1
+[03-May-2017 07:35:45 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[03-May-2017 07:35:46 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[03-May-2017 07:35:47 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[03-May-2017 07:35:48 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[03-May-2017 07:35:50 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[03-May-2017 07:35:50 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[03-May-2017 07:39:13 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[06-May-2017 23:31:27 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php
+[06-May-2017 23:31:31 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[06-May-2017 23:31:31 Europe/Berlin] $_GET:action: order_pizza
+[06-May-2017 23:31:31 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:31:45 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=3&pizza_topping%5B%5D=2&room=1&n=101
+[06-May-2017 23:31:45 Europe/Berlin] $_GET:action: add_order
+[06-May-2017 23:31:45 Europe/Berlin] $_GET:pizza_size: 3
+[06-May-2017 23:31:45 Europe/Berlin] $_GET:pizza_topping: 2
+[06-May-2017 23:31:45 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:31:45 Europe/Berlin] $_GET:n: 101
+[06-May-2017 23:31:45 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pizzadb.inventory' doesn't exist' in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\model\day_db.php:42
+Stack trace:
+#0 C:\xampp\htdocs\cs637\joychien\proj2\pizza2\model\day_db.php(42): PDOStatement->execute()
+#1 C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php(58): get_current_inventory(Object(PDO))
+#2 {main}
+  thrown in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\model\day_db.php on line 42
+[06-May-2017 23:33:06 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[06-May-2017 23:33:06 Europe/Berlin] $_GET:action: order_pizza
+[06-May-2017 23:33:06 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:33:08 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=101
+[06-May-2017 23:33:08 Europe/Berlin] $_GET:action: add_order
+[06-May-2017 23:33:08 Europe/Berlin] $_GET:pizza_size: 1
+[06-May-2017 23:33:08 Europe/Berlin] $_GET:pizza_topping: 1
+[06-May-2017 23:33:08 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:33:08 Europe/Berlin] $_GET:n: 101
+[06-May-2017 23:33:08 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ingredient' in 'field list'' in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\model\day_db.php:42
+Stack trace:
+#0 C:\xampp\htdocs\cs637\joychien\proj2\pizza2\model\day_db.php(42): PDOStatement->execute()
+#1 C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php(58): get_current_inventory(Object(PDO))
+#2 {main}
+  thrown in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\model\day_db.php on line 42
+[06-May-2017 23:33:10 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[06-May-2017 23:33:10 Europe/Berlin] $_GET:action: order_pizza
+[06-May-2017 23:33:10 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:33:12 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=101
+[06-May-2017 23:33:12 Europe/Berlin] $_GET:action: add_order
+[06-May-2017 23:33:12 Europe/Berlin] $_GET:pizza_size: 1
+[06-May-2017 23:33:12 Europe/Berlin] $_GET:pizza_topping: 1
+[06-May-2017 23:33:12 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:33:12 Europe/Berlin] $_GET:n: 101
+[06-May-2017 23:33:12 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ingredient' in 'field list'' in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\model\day_db.php:42
+Stack trace:
+#0 C:\xampp\htdocs\cs637\joychien\proj2\pizza2\model\day_db.php(42): PDOStatement->execute()
+#1 C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php(58): get_current_inventory(Object(PDO))
+#2 {main}
+  thrown in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\model\day_db.php on line 42
+[06-May-2017 23:35:23 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[06-May-2017 23:35:23 Europe/Berlin] $_GET:action: order_pizza
+[06-May-2017 23:35:23 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:35:24 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=101
+[06-May-2017 23:35:25 Europe/Berlin] $_GET:action: add_order
+[06-May-2017 23:35:25 Europe/Berlin] $_GET:pizza_size: 1
+[06-May-2017 23:35:25 Europe/Berlin] $_GET:pizza_topping: 1
+[06-May-2017 23:35:25 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:35:25 Europe/Berlin] $_GET:n: 101
+[06-May-2017 23:35:25 Europe/Berlin] PHP Notice:  Undefined variable: e in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\errors\error.php on line 9
+[06-May-2017 23:35:25 Europe/Berlin] PHP Notice:  Undefined variable: e in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\errors\error.php on line 12
+[06-May-2017 23:35:25 Europe/Berlin] PHP Notice:  Undefined variable: e in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\errors\error.php on line 15
+[06-May-2017 23:35:25 Europe/Berlin] PHP Notice:  Undefined variable: e in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\errors\error.php on line 26
+[06-May-2017 23:36:18 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[06-May-2017 23:36:18 Europe/Berlin] $_GET:action: order_pizza
+[06-May-2017 23:36:18 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:36:19 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=101
+[06-May-2017 23:36:19 Europe/Berlin] $_GET:action: add_order
+[06-May-2017 23:36:19 Europe/Berlin] $_GET:pizza_size: 1
+[06-May-2017 23:36:19 Europe/Berlin] $_GET:pizza_topping: 1
+[06-May-2017 23:36:19 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:36:19 Europe/Berlin] $_GET:n: 101
+[06-May-2017 23:36:33 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[06-May-2017 23:36:33 Europe/Berlin] $_GET:action: order_pizza
+[06-May-2017 23:36:33 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:36:37 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&room=1&n=101
+[06-May-2017 23:36:37 Europe/Berlin] $_GET:action: add_order
+[06-May-2017 23:36:37 Europe/Berlin] $_GET:pizza_size: 1
+[06-May-2017 23:36:37 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:36:37 Europe/Berlin] $_GET:n: 101
+[06-May-2017 23:36:41 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[06-May-2017 23:36:41 Europe/Berlin] $_GET:action: order_pizza
+[06-May-2017 23:36:41 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:36:45 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[06-May-2017 23:36:45 Europe/Berlin] $_GET:action: order_pizza
+[06-May-2017 23:36:45 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:43:41 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&room=1&n=101
+[06-May-2017 23:43:41 Europe/Berlin] $_GET:action: add_order
+[06-May-2017 23:43:41 Europe/Berlin] $_GET:pizza_size: 1
+[06-May-2017 23:43:41 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:43:41 Europe/Berlin] $_GET:n: 101
+[06-May-2017 23:43:51 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[06-May-2017 23:43:51 Europe/Berlin] $_GET:action: order_pizza
+[06-May-2017 23:43:51 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:44:07 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[06-May-2017 23:44:07 Europe/Berlin] $_GET:action: order_pizza
+[06-May-2017 23:44:07 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:44:15 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&room=1&n=1
+[06-May-2017 23:44:15 Europe/Berlin] $_GET:action: add_order
+[06-May-2017 23:44:15 Europe/Berlin] $_GET:pizza_size: 1
+[06-May-2017 23:44:15 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:44:15 Europe/Berlin] $_GET:n: 1
+[06-May-2017 23:44:31 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[06-May-2017 23:44:31 Europe/Berlin] $_GET:action: order_pizza
+[06-May-2017 23:44:31 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:44:33 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[06-May-2017 23:44:33 Europe/Berlin] $_GET:action: order_pizza
+[06-May-2017 23:44:33 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:45:07 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=101
+[06-May-2017 23:45:07 Europe/Berlin] $_GET:action: add_order
+[06-May-2017 23:45:07 Europe/Berlin] $_GET:pizza_size: 1
+[06-May-2017 23:45:07 Europe/Berlin] $_GET:pizza_topping: 1
+[06-May-2017 23:45:07 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:45:07 Europe/Berlin] $_GET:n: 101
+[06-May-2017 23:45:14 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[06-May-2017 23:45:14 Europe/Berlin] $_GET:action: order_pizza
+[06-May-2017 23:45:14 Europe/Berlin] $_GET:room: 1
+[06-May-2017 23:45:16 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[06-May-2017 23:45:16 Europe/Berlin] $_GET:action: order_pizza
+[06-May-2017 23:45:16 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:06:30 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[07-May-2017 23:06:30 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:06:30 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:06:34 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[07-May-2017 23:06:34 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:06:34 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:06:34 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:06:34 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:06:34 Europe/Berlin] $_GET:n: 1
+[07-May-2017 23:06:34 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[07-May-2017 23:06:34 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:06:37 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:06:37 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:06:37 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:06:42 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=100
+[07-May-2017 23:06:42 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:06:42 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:06:42 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:06:42 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:06:42 Europe/Berlin] $_GET:n: 100
+[07-May-2017 23:06:43 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[07-May-2017 23:06:43 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:06:50 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:06:50 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:06:50 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:06:57 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[07-May-2017 23:06:57 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:06:57 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:06:57 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:06:57 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:06:57 Europe/Berlin] $_GET:n: 1
+[07-May-2017 23:06:57 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[07-May-2017 23:06:57 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:07:02 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:07:03 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[07-May-2017 23:07:05 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[07-May-2017 23:07:06 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:07:07 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[07-May-2017 23:07:09 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[07-May-2017 23:07:12 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[07-May-2017 23:07:12 Europe/Berlin] $_POST:action: initial_db
+[07-May-2017 23:07:12 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[07-May-2017 23:07:14 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:14:24 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:14:25 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:14:25 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:14:25 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:14:31 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=100
+[07-May-2017 23:14:31 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:14:31 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:14:31 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:14:31 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:14:31 Europe/Berlin] $_GET:n: 100
+[07-May-2017 23:14:32 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[07-May-2017 23:14:32 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:14:34 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:14:38 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:14:38 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:14:38 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:14:43 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[07-May-2017 23:14:43 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:14:43 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:14:43 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:14:43 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:14:43 Europe/Berlin] $_GET:n: 1
+[07-May-2017 23:14:43 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[07-May-2017 23:14:43 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:14:52 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:14:52 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:14:52 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:15:01 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=10
+[07-May-2017 23:15:01 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:15:01 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:15:01 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:15:01 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:15:01 Europe/Berlin] $_GET:n: 10
+[07-May-2017 23:15:01 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[07-May-2017 23:15:01 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:15:07 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:15:08 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:15:09 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:15:14 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:15:16 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[07-May-2017 23:15:17 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[07-May-2017 23:15:20 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[07-May-2017 23:15:20 Europe/Berlin] $_POST:action: initial_db
+[07-May-2017 23:15:20 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[07-May-2017 23:15:21 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:15:28 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:15:31 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:15:31 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:15:31 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:15:37 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=101
+[07-May-2017 23:15:37 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:15:37 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:15:37 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:15:37 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:15:37 Europe/Berlin] $_GET:n: 101
+[07-May-2017 23:15:39 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:15:39 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:15:39 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:18:05 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:18:05 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:18:05 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:18:14 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=100
+[07-May-2017 23:18:14 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:18:14 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:18:14 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:18:14 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:18:14 Europe/Berlin] $_GET:n: 100
+[07-May-2017 23:18:14 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 62
+[07-May-2017 23:18:16 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[07-May-2017 23:18:16 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:18:28 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:18:28 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:18:28 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:19:24 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:19:28 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:19:28 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:19:28 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:19:28 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 41
+[07-May-2017 23:19:49 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:19:50 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:19:50 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:19:50 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:20:24 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:20:26 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:20:26 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:20:26 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:20:42 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[07-May-2017 23:20:42 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:20:42 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:20:42 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:20:42 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:20:42 Europe/Berlin] $_GET:n: 1
+[07-May-2017 23:20:42 Europe/Berlin] PHP Notice:  Undefined variable: preparing_orders in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 65
+[07-May-2017 23:20:42 Europe/Berlin] PHP Notice:  Undefined variable: preparing_orders in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 65
+[07-May-2017 23:20:42 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[07-May-2017 23:20:42 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:20:47 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:20:47 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:20:47 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:22:46 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:22:48 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:22:48 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:22:48 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:22:48 Europe/Berlin] PHP Notice:  Undefined variable: inventories in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 42
+[07-May-2017 23:22:48 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 42
+[07-May-2017 23:23:48 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:23:50 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:23:50 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:23:50 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:23:51 Europe/Berlin] PHP Notice:  Undefined variable: inventories in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 42
+[07-May-2017 23:23:51 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 42
+[07-May-2017 23:24:20 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:24:23 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:24:23 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:24:23 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:24:23 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 44
+[07-May-2017 23:24:23 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 44
+[07-May-2017 23:25:04 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:25:07 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:25:07 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:25:07 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:25:07 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 44
+[07-May-2017 23:25:07 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 44
+[07-May-2017 23:25:53 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:25:55 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:25:55 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:25:55 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:27:23 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:27:25 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:27:25 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:27:25 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:27:54 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:27:56 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:27:56 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:27:56 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:29:33 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:29:36 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:29:36 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:29:36 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:29:39 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[07-May-2017 23:29:39 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:29:39 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:29:39 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:29:39 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:29:39 Europe/Berlin] $_GET:n: 1
+[07-May-2017 23:29:39 Europe/Berlin] PHP Notice:  Undefined variable: preparing_orders in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 72
+[07-May-2017 23:29:39 Europe/Berlin] PHP Notice:  Undefined variable: preparing_orders in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 72
+[07-May-2017 23:29:39 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[07-May-2017 23:29:39 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:29:43 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:29:45 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:29:46 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[07-May-2017 23:29:48 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[07-May-2017 23:29:49 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[07-May-2017 23:29:49 Europe/Berlin] $_POST:action: initial_db
+[07-May-2017 23:29:49 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[07-May-2017 23:29:51 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:29:52 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:29:52 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:29:52 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:30:45 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:30:46 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:30:46 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:30:46 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:30:52 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:30:52 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:30:52 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:30:55 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:30:56 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:30:56 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:30:56 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:31:39 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:31:39 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:31:39 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:31:41 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:31:42 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:31:42 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:31:42 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:33:27 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:33:27 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:33:27 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:33:47 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:33:47 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:33:47 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:35:30 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:35:30 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:35:30 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:35:36 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[07-May-2017 23:35:36 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:35:36 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:35:36 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:35:36 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:35:36 Europe/Berlin] $_GET:n: 1
+[07-May-2017 23:35:36 Europe/Berlin] PHP Notice:  Undefined variable: preparing_orders in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 73
+[07-May-2017 23:35:36 Europe/Berlin] PHP Notice:  Undefined variable: preparing_orders in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 73
+[07-May-2017 23:35:36 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[07-May-2017 23:35:36 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:35:38 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:35:38 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:35:38 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:35:43 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=100
+[07-May-2017 23:35:43 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:35:43 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:35:43 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:35:43 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:35:43 Europe/Berlin] $_GET:n: 100
+[07-May-2017 23:35:43 Europe/Berlin] PHP Notice:  Undefined variable: preparing_orders in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 73
+[07-May-2017 23:35:43 Europe/Berlin] PHP Notice:  Undefined variable: preparing_orders in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 73
+[07-May-2017 23:35:44 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[07-May-2017 23:35:44 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:35:47 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:35:47 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:35:47 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:37:52 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:37:54 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:37:55 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[07-May-2017 23:37:56 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[07-May-2017 23:37:57 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[07-May-2017 23:37:57 Europe/Berlin] $_POST:action: initial_db
+[07-May-2017 23:37:57 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[07-May-2017 23:37:58 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:37:59 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:37:59 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:37:59 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:38:03 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[07-May-2017 23:38:03 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:38:03 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:38:03 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:38:03 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:38:03 Europe/Berlin] $_GET:n: 1
+[07-May-2017 23:38:03 Europe/Berlin] PHP Notice:  Undefined variable: preparing_orders in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 76
+[07-May-2017 23:38:03 Europe/Berlin] PHP Notice:  Undefined variable: preparing_orders in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 76
+[07-May-2017 23:38:03 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[07-May-2017 23:38:03 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:38:06 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:38:06 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:38:06 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:41:27 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:41:29 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:41:29 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:41:29 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:42:43 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:42:45 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:42:45 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:42:45 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:42:45 Europe/Berlin] PHP Notice:  Undefined variable: inv_qty in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\pizza\index.php on line 44
+[07-May-2017 23:43:02 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:43:03 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:43:03 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:43:03 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:43:08 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:43:09 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:43:11 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:43:11 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:43:11 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:43:19 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=100
+[07-May-2017 23:43:19 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:43:19 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:43:19 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:43:19 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:43:19 Europe/Berlin] $_GET:n: 100
+[07-May-2017 23:43:21 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:43:21 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:43:21 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:44:28 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:44:29 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:44:31 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[07-May-2017 23:44:34 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[07-May-2017 23:53:52 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:53:54 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:53:59 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:53:59 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:53:59 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:54:15 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:54:22 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:54:22 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:54:22 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:55:01 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=100
+[07-May-2017 23:55:01 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:55:01 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:55:01 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:55:01 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:55:01 Europe/Berlin] $_GET:n: 100
+[07-May-2017 23:55:10 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:55:10 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:55:10 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:55:12 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:55:13 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:55:13 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:55:13 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:55:19 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=99
+[07-May-2017 23:55:19 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:55:19 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:55:19 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:55:19 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:55:19 Europe/Berlin] $_GET:n: 99
+[07-May-2017 23:55:21 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[07-May-2017 23:55:21 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:55:26 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:55:27 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[07-May-2017 23:55:29 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[07-May-2017 23:57:43 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/index.php
+[07-May-2017 23:57:43 Europe/Berlin] $_POST:action: change_to_baked
+[07-May-2017 23:57:43 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[07-May-2017 23:59:10 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[07-May-2017 23:59:10 Europe/Berlin] PHP Fatal error:  Call to undefined function get_current_inventory() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\admin\order\index.php on line 20
+[07-May-2017 23:59:16 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[07-May-2017 23:59:16 Europe/Berlin] PHP Fatal error:  Call to undefined function get_current_inventory() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\admin\order\index.php on line 20
+[07-May-2017 23:59:30 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[07-May-2017 23:59:35 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:59:37 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[07-May-2017 23:59:38 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[07-May-2017 23:59:40 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[07-May-2017 23:59:40 Europe/Berlin] $_POST:action: initial_db
+[07-May-2017 23:59:40 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[07-May-2017 23:59:41 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:59:42 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:59:42 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:59:42 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:59:49 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=5
+[07-May-2017 23:59:49 Europe/Berlin] $_GET:action: add_order
+[07-May-2017 23:59:49 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2017 23:59:49 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2017 23:59:49 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:59:49 Europe/Berlin] $_GET:n: 5
+[07-May-2017 23:59:49 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[07-May-2017 23:59:49 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:59:50 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2017 23:59:50 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2017 23:59:50 Europe/Berlin] $_GET:room: 1
+[07-May-2017 23:59:55 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[07-May-2017 23:59:56 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[07-May-2017 23:59:57 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 00:00:00 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 00:00:26 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 00:00:31 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/index.php
+[08-May-2017 00:00:31 Europe/Berlin] $_POST:action: change_to_baked
+[08-May-2017 00:00:31 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 00:00:54 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/index.php
+[08-May-2017 00:00:54 Europe/Berlin] $_POST:action: change_to_baked
+[08-May-2017 00:00:54 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 00:16:59 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[08-May-2017 00:17:01 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 00:17:02 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 00:17:03 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 00:17:03 Europe/Berlin] PHP Fatal error:  Call to undefined function get_current_inventory() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\admin\day\index.php on line 23
+[08-May-2017 00:17:24 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 00:18:08 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 00:18:09 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[08-May-2017 00:18:10 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 00:18:11 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 00:18:12 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 00:30:24 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 00:30:24 Europe/Berlin] PHP Notice:  Undefined variable: inventories in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\admin\order\order_list.php on line 26
+[08-May-2017 00:30:24 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\admin\order\order_list.php on line 26
+[08-May-2017 00:33:01 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 00:35:51 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 00:35:52 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 00:35:53 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 00:54:56 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 00:55:50 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 00:56:01 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 00:56:21 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 00:56:35 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 04:07:48 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 04:07:50 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 04:07:52 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 04:09:36 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[08-May-2017 04:09:38 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 04:09:38 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 04:09:38 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:09:42 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[08-May-2017 04:09:42 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 04:09:42 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 04:09:42 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 04:09:42 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:09:42 Europe/Berlin] $_GET:n: 1
+[08-May-2017 04:09:42 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[08-May-2017 04:09:42 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:09:54 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[08-May-2017 04:09:54 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:09:57 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[08-May-2017 04:09:59 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 04:09:59 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 04:09:59 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:13:25 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[08-May-2017 04:13:32 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 04:13:32 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 04:13:32 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:13:37 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[08-May-2017 04:13:37 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 04:13:37 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 04:13:37 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 04:13:37 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:13:37 Europe/Berlin] $_GET:n: 1
+[08-May-2017 04:13:38 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[08-May-2017 04:13:38 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:13:41 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 04:13:41 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 04:13:41 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:14:07 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[08-May-2017 04:14:08 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 04:14:15 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 04:14:16 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 04:14:18 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[08-May-2017 04:14:18 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 04:14:19 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 04:14:20 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[08-May-2017 04:14:21 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 04:14:21 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 04:14:21 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:14:24 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[08-May-2017 04:14:24 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 04:14:24 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 04:14:24 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 04:14:24 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:14:24 Europe/Berlin] $_GET:n: 1
+[08-May-2017 04:14:24 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[08-May-2017 04:14:24 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:14:27 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 04:14:27 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 04:14:27 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:14:39 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=100
+[08-May-2017 04:14:39 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 04:14:39 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 04:14:39 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 04:14:39 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:14:39 Europe/Berlin] $_GET:n: 100
+[08-May-2017 04:14:41 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 04:14:41 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 04:14:41 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:14:47 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 19:53:33 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 19:53:34 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 19:58:33 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 19:58:34 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 19:58:35 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 20:00:21 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 20:00:23 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 20:00:24 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:00:24 Europe/Berlin] PHP Notice:  Undefined variable: undeliveried_orders in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\admin\day\day_list.php on line 64
+[08-May-2017 20:00:24 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\admin\day\day_list.php on line 64
+[08-May-2017 20:01:30 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:01:35 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[08-May-2017 20:01:35 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:01:37 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 20:01:37 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 20:01:37 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:01:37 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:01:44 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[08-May-2017 20:01:44 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 20:01:44 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 20:01:44 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 20:01:44 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:01:44 Europe/Berlin] $_GET:n: 1
+[08-May-2017 20:01:44 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:01:44 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[08-May-2017 20:01:44 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:01:44 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:01:48 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 20:01:48 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 20:01:48 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:01:48 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:01:50 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 20:01:52 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 20:01:53 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:01:57 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[08-May-2017 20:01:57 Europe/Berlin] $_POST:action: next_day
+[08-May-2017 20:01:57 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:05:01 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:05:06 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[08-May-2017 20:05:06 Europe/Berlin] $_POST:action: next_day
+[08-May-2017 20:05:06 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:11:21 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:12:12 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:14:15 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:14:16 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:14:32 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:14:43 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:14:44 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:14:46 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:15:27 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:15:29 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[08-May-2017 20:15:29 Europe/Berlin] $_POST:action: next_day
+[08-May-2017 20:15:29 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:15:37 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[08-May-2017 20:15:37 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 20:15:37 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:15:39 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[08-May-2017 20:15:39 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 20:15:40 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:15:41 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[08-May-2017 20:15:41 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 20:15:41 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:16:19 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[08-May-2017 20:16:19 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:16:21 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 20:16:21 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 20:16:21 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:16:21 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:16:24 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[08-May-2017 20:16:24 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 20:16:24 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 20:16:24 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 20:16:24 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:16:24 Europe/Berlin] $_GET:n: 1
+[08-May-2017 20:16:24 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:16:24 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[08-May-2017 20:16:24 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:16:24 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:16:28 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 20:16:30 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 20:16:32 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 20:16:39 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 20:16:41 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 20:16:42 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:16:56 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[08-May-2017 20:16:56 Europe/Berlin] $_POST:action: next_day
+[08-May-2017 20:16:56 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:18:39 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 20:18:41 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 20:18:42 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 20:18:44 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[08-May-2017 20:18:44 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:18:45 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 20:18:45 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 20:18:45 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:18:45 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:18:49 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[08-May-2017 20:18:49 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 20:18:49 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 20:18:49 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 20:18:49 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:18:49 Europe/Berlin] $_GET:n: 1
+[08-May-2017 20:18:49 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:18:49 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[08-May-2017 20:18:49 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:18:49 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:19:46 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 20:20:20 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 20:20:21 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 20:23:10 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 20:23:11 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 20:23:12 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:23:15 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[08-May-2017 20:23:15 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 20:23:15 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:23:41 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:23:43 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 20:23:44 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 20:23:46 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 20:23:48 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[08-May-2017 20:23:48 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:23:50 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 20:23:50 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 20:23:50 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:23:50 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:23:53 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 20:23:55 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 20:23:56 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:23:58 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[08-May-2017 20:23:58 Europe/Berlin] $_POST:action: next_day
+[08-May-2017 20:23:58 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:24:01 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[08-May-2017 20:24:01 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:24:02 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 20:24:03 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 20:24:05 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 20:25:28 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 20:25:29 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 20:25:30 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:25:32 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[08-May-2017 20:25:32 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 20:25:32 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:25:34 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[08-May-2017 20:25:34 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:25:36 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 20:25:36 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 20:25:36 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:25:36 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:25:38 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[08-May-2017 20:25:38 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 20:25:38 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 20:25:38 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 20:25:38 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:25:38 Europe/Berlin] $_GET:n: 1
+[08-May-2017 20:25:38 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:25:39 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[08-May-2017 20:25:39 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:25:39 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:25:41 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 20:25:43 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 20:25:47 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:25:48 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/index.php
+[08-May-2017 20:25:48 Europe/Berlin] $_POST:action: next_day
+[08-May-2017 20:25:48 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[08-May-2017 20:25:49 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/
+[08-May-2017 20:25:49 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:25:50 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 20:25:50 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 20:25:50 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:25:50 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:25:53 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[08-May-2017 20:25:53 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 20:25:53 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 20:25:53 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 20:25:53 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:25:53 Europe/Berlin] $_GET:n: 1
+[08-May-2017 20:25:53 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:25:53 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?room=1
+[08-May-2017 20:25:53 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:25:53 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:25:56 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 20:25:56 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 20:25:56 Europe/Berlin] $_GET:room: 1
+[08-May-2017 20:25:56 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\util\main.php on line 50
+[08-May-2017 20:25:58 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 20:25:59 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 20:26:00 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 20:28:12 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 20:28:12 Europe/Berlin] PHP Notice:  Undefined variable: undelievered_orders in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\admin\order\order_list.php on line 34
+[08-May-2017 20:28:24 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 20:28:24 Europe/Berlin] PHP Notice:  Undefined variable: 6 in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\admin\order\order_list.php on line 36
+[08-May-2017 20:28:25 Europe/Berlin] PHP Notice:  Undefined variable: 80 in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\admin\order\order_list.php on line 37
+[08-May-2017 20:28:25 Europe/Berlin] PHP Notice:  Undefined variable: 60 in C:\xampp\htdocs\cs637\joychien\proj2\pizza2\admin\order\order_list.php on line 38
+[08-May-2017 20:28:52 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 20:29:23 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/order/
+[08-May-2017 20:29:40 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/
+[08-May-2017 20:29:41 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/
+[08-May-2017 20:29:42 Europe/Berlin] =====Starting request: /cs637/joychien/proj2/pizza2/admin/day/
+[01-Apr-2019 08:39:02 Europe/Berlin] =====Starting request: /pizza2/index.php
+[01-Apr-2019 08:39:04 Europe/Berlin] =====Starting request: /pizza2/admin/
+[01-Apr-2019 08:39:06 Europe/Berlin] =====Starting request: /pizza2/
+[01-Apr-2019 08:39:09 Europe/Berlin] =====Starting request: /pizza2/admin/
+[01-Apr-2019 08:39:09 Europe/Berlin] =====Starting request: /pizza2/
